@@ -12,8 +12,8 @@ Source0:	http://fran86.w.interia.pl/xmms_status-%{version}.tar.gz
 URL:		http://fran86.w.interia.pl
 BuildRequires:	automake
 BuildRequires:	pkgconfig
-BuildRequires:	glib2-devel  >= 2.2.0
-BuildRequires:	gtk+2-devel  >= 2.2.0
+BuildRequires:	glib2-devel >= 2.2.0
+BuildRequires:	gtk+2-devel >= 2.2.0
 BuildRequires:	gg2-devel
 BuildRequires:	xmms-devel
 Requires:	gg2

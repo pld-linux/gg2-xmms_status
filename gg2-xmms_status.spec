@@ -3,7 +3,7 @@ Summary:	XMMS status - GNU Gadu 2 plugin
 Summary(pl):	XMMS status - GNU Gadu 2 plugin
 Name:		gg2-xmms_status
 Version:	%{_snap}
-Release:	0.1
+Release:	1
 Epoch:		0
 License:	GPL
 Group:		Applications/Communications

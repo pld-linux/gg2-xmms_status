@@ -1,4 +1,4 @@
-%define         _snap	20043003
+%define         _snap	20040330
 Summary:	XMMS status - GNU Gadu 2 plugin
 Summary(pl):	XMMS status - GNU Gadu 2 plugin
 Name:		gg2-xmms_status
@@ -8,7 +8,7 @@ Epoch:		0
 License:	GPL
 Group:		Applications/Communications
 Source0:	http://fran86.w.interia.pl/xmms_status-%{version}.tar.gz
-# Source0-md5:	ac2a22056be94bc34fa72f6c8a9dce12
+# Source0-md5:	eab5cfee91c46e36fb3d4d9fb55f7a45
 URL:		http://fran86.w.interia.pl
 BuildRequires:	automake
 BuildRequires:	pkgconfig

@@ -28,7 +28,7 @@ Zmienia opis statusu GNU Gadu 2 na nazwê aktualnie odtwarzanego utworu
 w XMMS.
 
 %prep
-%setup -q -c %{name}-%{version} -a0
+%setup -q -c -a0
 
 %build
 %{__make}

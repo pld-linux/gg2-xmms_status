@@ -1,6 +1,6 @@
 %define         _snap	20040330
 Summary:	XMMS status - GNU Gadu 2 plugin
-Summary(pl):	XMMS status - GNU Gadu 2 plugin
+Summary(pl.UTF-8):   XMMS status - GNU Gadu 2 plugin
 Name:		gg2-xmms_status
 Version:	%{_snap}
 Release:	1
@@ -23,8 +23,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Change GNU Gadu 2 status description to XMMS song title.
 
-%description -l pl
-Zmienia opis statusu GNU Gadu 2 na nazwê aktualnie odtwarzanego utworu
+%description -l pl.UTF-8
+Zmienia opis statusu GNU Gadu 2 na nazwÄ™ aktualnie odtwarzanego utworu
 w XMMS.
 
 %prep

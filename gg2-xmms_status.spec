@@ -1,6 +1,6 @@
 %define         _snap	20040330
 Summary:	XMMS status - GNU Gadu 2 plugin
-Summary(pl.UTF-8):   XMMS status - GNU Gadu 2 plugin
+Summary(pl.UTF-8):	XMMS status - GNU Gadu 2 plugin
 Name:		gg2-xmms_status
 Version:	%{_snap}
 Release:	1
